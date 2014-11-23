@@ -12,11 +12,11 @@
 
 - OSX:command+shift+c
 
-{% highlight javascirpt %}
+``` javascript
 	---
 	layout: post 
 	title:  
 	date: 2014-11-23 08:34:03 
 	category:  
 	---
-{% endhighlight %}
+```
