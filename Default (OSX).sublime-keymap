@@ -1,0 +1,11 @@
+[
+    {
+        "keys":["super+shift+c"],
+        "command":"new",
+        "args":{
+            "commands":[
+                ["head"]
+            ]
+        }
+    }
+]   
